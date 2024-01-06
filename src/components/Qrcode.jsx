@@ -10,7 +10,7 @@ export default function qrcode() {
         <h1 className="font-bold text-[1.375rem] ml-4">
           Improve your front-end skills by building projects
         </h1>
-        <p className="text-[#7D889E] text-[0.9375rem] p-3">
+        <p className="text-[#7D889E] text-[0.9375rem] p-3 mx-2 text-center">
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
         </p>
