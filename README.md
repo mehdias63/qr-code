@@ -32,5 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- [React](https://reactjs.org/) - React framework
-- [Tailwind](https://tailwindcss.com/) - Tailwind
+- [React](https://reactjs.org/) - JS library
+- [Tailwind](https://tailwindcss.com/) - For styles
