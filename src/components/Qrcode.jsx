@@ -5,7 +5,11 @@ export default function qrcode() {
     <div>
       <div className=" bg-white w-[20rem] h-[31.0625rem] p-4 rounded-lg font-out">
         <div className="">
-          <img src="../images/image-qr-code.png" className=" rounded-lg" />
+          <img
+            src="../images/image-qr-code.png"
+            className=" rounded-lg"
+            alt="qrcode"
+          />
         </div>
         <h1 className=" text-[1.375rem] mt-5 font-bold text-center">
           Improve your front-end skills by building projects
